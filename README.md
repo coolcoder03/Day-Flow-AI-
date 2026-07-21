@@ -2,6 +2,9 @@
 
 DayFlow AI+ is a prayer-first daily planner for Muslim professionals. It anchors each day around the five daily prayers, then helps users fit tasks, meetings, habits, Gmail priorities, and Calendar events around those non-negotiable moments.
 
+<img width="488" height="440" alt="image" src="https://github.com/user-attachments/assets/b3b8c96d-0117-478d-8a67-76da27625266" />
+
+
 ## Features
 
 - Prayer-aware daily timeline with protected prayer blocks
